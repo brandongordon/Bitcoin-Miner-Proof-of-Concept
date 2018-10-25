@@ -2,7 +2,7 @@
 
 Instructions for running your program to complete the required objectives:
 
-Ensure that there are no text files in the directory. If they are present, please delete them.
+Ensure that there are no previously generated text files in the running directory. If they are present, please delete them.
 
 •	Open and run the Block Mining program
   o	Upon first launch of this program, it will generate a genesis file, containing arbitrary data that is used to generate the first block in the chain.
