@@ -4,15 +4,15 @@
 
 Ensure that there are no previously generated text files in the running directory. If they are present, please delete them.
 
-#### - Open and run the Block Mining program
-
-   - Upon first launch of this program, it will generate a genesis file, containing arbitrary data that is used to generate the first block in the chain.
+ - Open and run the Block Mining program
+ 
+    - Upon first launch of this program, it will generate a genesis file, containing arbitrary data that is used to generate the first block in the chain.
   
     - It will then prompt the user to begin recording transactions. They should do this via the Transaction Recording program
   
     - The block mining program must remain running while recording transactions. This is not the default behaviour for IDLE on Mac OS however you can run two instances of Python from the Terminal
   
-#### - Open and run the Transaction Recording program 
+ - Open and run the Transaction Recording program 
   
     - Record a transaction by choosing “Record Transaction”
   
