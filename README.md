@@ -1,6 +1,6 @@
 # Bitcoin Miner - Proof of Concept
 
-Instructions for running your program to complete the required objectives:
+######Instructions for running your program to complete the required objectives:
 
 Ensure that there are no previously generated text files in the running directory. If they are present, please delete them.
 
